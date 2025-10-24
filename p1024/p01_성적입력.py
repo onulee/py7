@@ -6,3 +6,9 @@
 # print("합계 :",100)
 # print(100,200,300,400,500)
 # print("합계",100,True) # 다른타입도 출력가능
+
+# 숫자를 입력해서 출력하시오.
+num = input("숫자를 입력하세요.") # input타입 : 문자열
+print("숫자 :",float(num))  # 문자열 -> 정수타입으로 변경 : int,실수형타입 : float
+num2 = input("숫자를 입력하세요.")
+print("숫자 :",float(num2))
