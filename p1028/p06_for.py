@@ -41,3 +41,13 @@ for a in a_list: # a_list[0],a_list[1],a_list[2],a_list[3]
 name ="홍길동유관순이순신"
 for i in name:
     print(i)
+    
+    
+    
+# range() 숫자를 입력하세요 10번출력 
+sum = 0 
+for i in range(10):
+    num = int(input("{}번째 숫자를 입력하세요. ".format(i+1)))
+    sum = sum + num
+
+print("합계 : ",sum)
