@@ -15,7 +15,7 @@ for i in range(6):
     my_list.append(num)
 my_list.sort()
 
-# 3. 맞춘번호 확인
+# 3. 당첨번호 확인
 for i in lotto:
     for j in my_list:
         if i == j:
