@@ -29,6 +29,13 @@ while True:
         #    ['유관순',kor,eng,math,total,avg]
         # ]
         print("{}\t{}\t{}\t{}\t{}\t{:.2f}\t".format(name,kor,eng,math,total,avg))
+    
+    elif choice == 3:
+        pass
+    
+    
+    
+    
     print()
 
 
