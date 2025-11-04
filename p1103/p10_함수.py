@@ -30,7 +30,6 @@
 from StuFunc import * # StuFunc.py 안에 모든 함수를 가져옴.
 
 
-
 # # 학생성적프로그램
 while True:
     screen_print() # 함수호출
